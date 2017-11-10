@@ -1,0 +1,3 @@
+autopostgresqlbackup:
+  lookup:
+    master: autopostgresqlbackup-master

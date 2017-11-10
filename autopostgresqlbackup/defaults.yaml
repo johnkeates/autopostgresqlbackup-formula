@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+# vim: ft=yaml
+autopostgresqlbackup:
+  pkg: autopostgresqlbackup
+  config: '/etc/autopostgresqlbackup'
+  service:
+    name: autopostgresqlbackup
